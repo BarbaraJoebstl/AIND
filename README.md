@@ -8,6 +8,7 @@
 - Minimax algorithm with alpha-beta pruning with iterative deepening is implemented
 - 3 custom heuristics are implemented and compared
 - Research review of [Game Tree Searching by Min/Max Approximation](https://people.csail.mit.edu/rivest/pubs/Riv87c.pdf) is written
+- [Sketchnotes MiniMax and AlphaBeta Pruning](https://github.com/BarbaraJoebstl/AIND/wiki/MiniMax-Algorithm)
 
 ### 3. [Adversarial Planning Search](https://github.com/BarbaraJoebstl/AIND_Planning_Search)
  - The 3 given air cargo problems are implemented
