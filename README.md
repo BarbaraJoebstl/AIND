@@ -20,7 +20,7 @@
  - provide optiomal sequence for each problem
  - [Sketchnotes Solving Search Problems with AI](https://github.com/BarbaraJoebstl/AIND/wiki/Solve-Search-Problems-with-AI)
  
- ###4. [Sign Language Recognition](https://github.com/BarbaraJoebstl/AIND_Recognizer) 
+### 4. [Sign Language Recognition](https://github.com/BarbaraJoebstl/AIND_Recognizer) 
  - Model selection techniques BIC, DIC and K-fold Cross Validation are used
  - Trained a set of Hidden Markov Models (HMMs) using part of a preprocessed dataset of tracked hand and nose positions extracted from video to try and identify individual words from test sequences. 
  - [Sketchnotes for HMMs](https://github.com/BarbaraJoebstl/AIND/wiki/Hidden-Markov-Models)
