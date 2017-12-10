@@ -10,3 +10,7 @@
 [submodule "AIND_Recognizer"]
 	path = AIND_Recognizer
 	url = https://github.com/BarbaraJoebstl/AIND_Recognizer.git
+[submodule "AIND_CV_MIMIC"]
+	url = https://github.com/BarbaraJoebstl/AIND_CV_MIMIC
+[submodule "AIND_CNN_PROJECT"]
+	url = https://github.com/BarbaraJoebstl/AIND_CNN_PROJECT
