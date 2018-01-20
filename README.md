@@ -25,6 +25,16 @@
  - Trained a set of Hidden Markov Models (HMMs) using part of a preprocessed dataset of tracked hand and nose positions extracted from video to try and identify individual words from test sequences. 
  - [Sketchnotes for HMMs](https://github.com/BarbaraJoebstl/AIND/wiki/Hidden-Markov-Models)
  
+ ### 5. [Dog Breed Classifier](https://github.com/BarbaraJoebstl/AIND_CNN_PROJECT)
+  - Built an algorithm to identify canine breed given an image of a dog. If given image of a human, the algorithm identifies a resembling dog breed.
+ 
+ ### 6. [Recurrent Neural Networks](https://github.com/BarbaraJoebstl/AIND_RNN)
+  - Built RNNs that can generate sequences based on input data
+  - with a focus on two applications: used real market data in order to predict future Apple stock prices using an RNN model.
+ 
+ ### 7. [Facial Keypoint Detector](https://github.com/BarbaraJoebstl/AIND_Facial_Keypoints)
+  - Trained a Convolutional Neural Network with custom architecture
+  - Implemented image processing like De-noise, edge detection and blur
  
  ### Resources:
  - [Udacity AIND](https://udacity.com/ai/)
