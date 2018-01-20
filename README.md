@@ -27,6 +27,7 @@
  
  ### 5. [Dog Breed Classifier](https://github.com/BarbaraJoebstl/AIND_CNN_PROJECT)
   - Built an algorithm to identify canine breed given an image of a dog. If given image of a human, the algorithm identifies a resembling dog breed.
+  - [Sketchnotes for Neural Networks](https://github.com/BarbaraJoebstl/AIND/wiki/Neural-network-architecture)
  
  ### 6. [Recurrent Neural Networks](https://github.com/BarbaraJoebstl/AIND_RNN)
   - Built RNNs that can generate sequences based on input data
