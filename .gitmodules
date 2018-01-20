@@ -1,16 +1,20 @@
-[submodule "AIND_Isolation"]
-	path = AIND_Isolation
-	url = https://github.com/BarbaraJoebstl/AIND_Isolation.git
-[submodule "AIND_Planning_Search"]
-	path = AIND_Planning_Search
-	url = https://github.com/BarbaraJoebstl/AIND_Planning_Search.git
 [submodule "AIND_Sudoku"]
 	path = AIND_Sudoku
 	url = https://github.com/BarbaraJoebstl/AIND_Sudoku.git
+[submodule "AIND_Isolation"]
+	path = AIND_Isolation
+	url = https://github.com/BarbaraJoebstl/AIND_Isolation.git	
+[submodule "AIND_Plansning_Search"]
+	path = AIND_Planning_Search
+	url = https://github.com/BarbaraJoebstl/AIND_Planning_Search.git	
 [submodule "AIND_Recognizer"]
 	path = AIND_Recognizer
 	url = https://github.com/BarbaraJoebstl/AIND_Recognizer.git
 [submodule "AIND_CV_MIMIC"]
 	url = https://github.com/BarbaraJoebstl/AIND_CV_MIMIC
-[submodule "AIND_CNN_PROJECT"]
+[submodule "AIND_CNN"]
 	url = https://github.com/BarbaraJoebstl/AIND_CNN_PROJECT
+[submodule "AIND_RNN"]
+	url = https://github.com/BarbaraJoebstl/AIND_RNN
+[submodule "AIND_Facial_Keypoints"]
+	url = https://github.com/BarbaraJoebstl/AIND_Facial_Keypointss
